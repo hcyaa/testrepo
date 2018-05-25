@@ -1,5 +1,7 @@
+$ cat readme.txt
 Git is a distributed version control system.
 Git is free software.
 difference
 differencediffere
 teasuaisu123123
+
