@@ -6,3 +6,4 @@ differencediffere
 teasuaisu123123
 
 312312
+$ git reset HEAD readme.txt
