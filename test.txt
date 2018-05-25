@@ -7,3 +7,4 @@ teasuaisu123123
 
 312312
 $ git reset HEAD readme.txt
+My stupid boss still prefers SVN.
